@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shawshweta71@gmail.com**
 
-- ⚡ Fun fact **When not coding, I teach kids programming and science😄!**
+- ⚡Fun fact **When not coding, I teach kids programming and science😄!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
