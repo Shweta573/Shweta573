@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Shweta573/Shweta573/blob/main/Banner%201.png)
 <h1 align="center">Hi 👋, I'm Shweta Shaw</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
